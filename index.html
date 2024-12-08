@@ -32,6 +32,7 @@
       <button onclick="appendValue('.')">.</button>
       <button onclick="calculate()">=</button>
       <button onclick="appendValue('+')">+</button>
+      <button onclick="deleteLast()">DEL</button>
       <button onclick="clearDisplay()">C</button>
     </div>
   </div>
@@ -51,7 +52,10 @@
     }
 
     function clearDisplay() {
-      display.value = '';
+        display.value = '';
+    }
+    function deleteLast() {
+        display.value = display.value.slice(0, -1);
     }
   </script>
 </body>
