@@ -1,1 +1,4 @@
-Direct Link - simple-calculator-zeta-rosy.vercel.app
+*Project Description!
+A clean, no-fuss calculator built to handle all the basic arithmetic operations — add, subtract, multiply, divide. Built this as a way to practise JavaScript logic and UI fundamentals. It’s lightweight, responsive, and does exactly what it says on the tin.
+
+*Direct Link - simple-calculator-zeta-rosy.vercel.app
